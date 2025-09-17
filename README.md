@@ -77,10 +77,10 @@ To execute the program with assertions turned on, use the `-ea` switch when runn
 
 
 #### 6. Author
-**Aman Kumar Gupta**  
+**Patkar Atharva Satish**  
 B.Tech Computer Science and Engineering (Cyber Security & Digital Forensics) 
 VIT Bhopal University  
-Registration No: 23BCY10119
+Registration No: 23BCY10221
 
 **Under the guidance of:**  
-Dr. Sandeep Monga, VIT Bhopal University
+Dr. MOHD. ISHRAT, VIT Bhopal University
