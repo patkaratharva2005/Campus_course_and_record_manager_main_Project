@@ -87,11 +87,11 @@ Dr. MOHD. ISHRAT, VIT Bhopal University
 
 ### Execution of the Project
 
-Screenshot 1:-
+**Screenshot 1:-**
 ![Java 1](https://github.com/user-attachments/assets/2b4d8523-b61c-40eb-8fc5-d63204c7fb54)
 
-Screenshot 2:-
+**Screenshot 2:-**
 ![Java 2](https://github.com/user-attachments/assets/76fdc748-87bf-4747-96ac-a1aea0f10001)
 
-Screenshot 3:-
+**Screenshot 3:-**
 ![Java 3](https://github.com/user-attachments/assets/5540f818-875d-4ed2-9ceb-4caec84e83dc)
